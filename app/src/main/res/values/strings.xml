@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pharmacy App</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="login_with_fingerprint">تسجيل الدخول بالبصمة</string>
+    <string name="manage_medicines">إدارة الأدوية</string>
+    <string name="sales">شاشة البيع</string>
+    <string name="expenses">المصروفات</string>
+    <string name="reports">التقارير</string>
+    <string name="sell">بيع</string>
+    <string name="save">حفظ</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:padding="24dp"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <EditText android:id="@+id/barcodeInput" android:hint="الباركود أو اسم الدواء"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp" />
+
+    <Button android:id="@+id/btnSearch" android:text="بحث"
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:layout_marginBottom="12dp" />
+
+    <Button android:id="@+id/btnSell" android:text="بيع"
+        android:layout_width="match_parent" android:layout_height="wrap_content" />
+</LinearLayout>
